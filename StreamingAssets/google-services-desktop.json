@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "60207812637",
+    "project_id": "wrwrmaster",
+    "storage_bucket": "wrwrmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60207812637:android:7fdaa113d7cc72bac8b6f4",
+        "android_client_info": {
+          "package_name": "com.gismonda.wrwr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60207812637-jrbdd7gk0occ65ei01n3bci4t5udaega.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnIeeMZcL-RX-Ky3kZnc6DqkPIhVDTg10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60207812637-jrbdd7gk0occ65ei01n3bci4t5udaega.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60207812637-i67vj463li2hu4vr8jtda0a4k0mtnngo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gismonda.wrwr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
